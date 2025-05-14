@@ -1,11 +1,11 @@
 # 新版GPT-4o生图功能太强了（附国内使用指南）【5月最新更新】
 
-> **更新时间：2025-05-14**          
+> **更新时间：2025-05-15**          
 
 国内能轻松使用的 [**GPT-4o 画图**](https://chat.lanjing.pro)，**无需翻墙**，**无限制使用 GPT-4o 文生图、图生图、吉卜力等功能**      
 本项目提供全面的 **GPT-4o 国内使用指南**，包括国内可用的 [**GPT-4o 中文版**](https://chat.lanjing.pro)、[**GPT-4o 国内入口**](https://chat.xsimple.top) 推荐和详细使用教程，帮助您快速使用上 GPT-4o 文生图、图生图~
 
-**GPT-4o 生图国内入口：[https://chat.yixiaai.com/](https://chat.xsimple.top/)**     
+**GPT-4o 生图国内入口：[https://chat.yixiaai.com/](https://xsimplechat.com/)**     
 **GPT-4o 镜像网站入口：[https://chat.chatgpt-chinese.com](https://chat.lanjing.pro)**
 
 ---
@@ -37,7 +37,7 @@
 
 | **镜像站地址**       | **支持版本**                  | **免费额度** | **注册方式**       | **稳定性** | **功能亮点**                              |
 |----------------------|------------------------------|--------------|-------------------|------------|------------------------------------------|
-| [chat.yixiaai.com](https://chat.xsimple.top)   | GPT-4o 画图, GPT-4, o1, o3, DeepSeek R1, Claude 3.7 | 有           | 国内扫码使用      | ⭐⭐⭐⭐⭐    | 运营两年，支持 GPT-4o，内置 MJ 绘图，适合开发者和普通用户 |
+| [chat.yixiaai.com](https://xsimplechat.com)   | GPT-4o 画图, GPT-4, o1, o3, DeepSeek R1, Claude 3.7 | 有           | 国内扫码使用      | ⭐⭐⭐⭐⭐    | 运营两年，支持 GPT-4o，内置 MJ 绘图，适合开发者和普通用户 |
 | [chat.lanjing.pro](https://chat.lanjing.pro)         | GPT-4o 画图, GPT-4, o1, o3, DeepSeek R1, Claude 3.7 | 有           | 国内邮箱登录      | ⭐⭐⭐⭐⭐    | 支持 GPT-o1，一比一还原官网，支持实时语音和视频对话 |
 | [chat.lify.vip](https://chat.yixiaai.com) | GPT-4o 画图, GPT-4, GPT-3.5      | 有           | 国内扫码使用      | ⭐⭐⭐⭐     | 支持开发者 API，服务稳定                |
 | [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)   | GPT-4o 画图, GPT-4, GPT-3.5      | 有           | 国内邮箱支持      | ⭐⭐⭐⭐      | 操作简单，适合基础聊天需求              |
