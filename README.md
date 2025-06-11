@@ -6,7 +6,7 @@
 本项目提供全面的 **GPT-4o 国内使用指南**，包括国内可用的 [**GPT-4o 中文版**](https://chat.lanjingai.org)、[**GPT-4o 国内入口**](https://chat.xsimple.top) 推荐和详细使用教程，帮助您快速使用上 GPT-4o 文生图、图生图~
 
 **GPT-4o 生图国内入口：[https://chat.yixiaai.com/](https://xsimplechat.com/)**     
-**GPT-4o 镜像网站入口：[https://chat.chatgpt-chinese.com](https://chat.lanjingai.org)**
+**GPT-4o 镜像网站入口：[https://chat.lanjingai.org](https://chat.lanjingai.org)**
 
 ---
 
